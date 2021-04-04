@@ -15,6 +15,12 @@ Python development is my passion as well as my job.
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteoguadrini&show_icons=true&theme=buefy)
 
+## References
+
+Blog: [https://matteoguadrini.github.io](https://matteoguadrini.github.io/)
+
+CV: [https://matteoguadrini.github.io/about/](https://matteoguadrini.github.io/about/)
+
 <!--
 **MatteoGuadrini/MatteoGuadrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
