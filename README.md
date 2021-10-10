@@ -4,7 +4,7 @@
 
 Python development is my passion as well as my job.
 
-- _author of vmam, PSCouchDB, fontpreview, dinosay..._
+- _author of nosqlapi, pyreports,  PSCouchDB, fontpreview, dinosay..._
 - _writes high quality utilities to optimize terminal productivity_
 - _wrote them to spend more time with his kid than at a computer_
 
