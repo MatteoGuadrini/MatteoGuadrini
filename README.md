@@ -13,9 +13,9 @@ Python development is my passion as well as my job.
 
 ![Matteo Guadrini's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteoguadrini&show_icons=true&theme=buefy)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteoguadrini&show_icons=true&theme=buefy)
-<br>
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=matteoguadrini&&theme=buefy)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteoguadrini&show_icons=true&theme=buefy)
 
 ## References
 
