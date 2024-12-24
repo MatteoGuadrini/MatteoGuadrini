@@ -4,12 +4,12 @@
 
 ### Python and Rust development is my passion as well as my job.
 
-- _author of **nosqlapi**, **pyreports**, **PSCouchDB**, **fontpreview**, **dinosay**, **mkpl**..._
+- _author of **psp**, **nosqlapi**, **pyreports**, **PSCouchDB**, **fontpreview**, **dinosay**, **mkpl**..._
 - _writes high quality utilities to optimize terminal productivity_
 - _wrote them to spend more time with his kid than at a computer_
 - _he studies Rust to write and build a better software_
 
-<a href="https://www.buymeacoffee.com/matteoguadrini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/matteoguadrini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [![Donate with paypal](https://img.shields.io/badge/donate-paypal-blue)](https://www.paypal.me/guos)
 [![Donate to Telethon](https://img.shields.io/badge/donate-telethon-green)](https://www.telethon.it/sostienici/dona-ora)
