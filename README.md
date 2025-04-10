@@ -4,7 +4,7 @@
 
 ### Python and Rust development is my passion as well as my job.
 
-- _author of **psp**, **nosqlapi**, **pyreports**, **PSCouchDB**, **fontpreview**, **dinosay**, **mkpl**..._
+- _author of **psp**, **Butterfly Backup**, **pyreports**, **PSCouchDB**, **fontpreview**, **dinosay**, **mkpl**..._
 - _writes high quality utilities to optimize terminal productivity_
 - _wrote them to spend more time with his kid than at a computer_
 - _he studies Rust to write and build a better software_
@@ -22,7 +22,8 @@
 
 ## References
 
-CV: [https://matteoguadrini.github.io](https://matteoguadrini.github.io/)
+CV: [https://matteoguadrini.github.io](https://matteoguadrini.github.io/)<br>
+Snippets: [Life Of Code](https://matteoguadrini.github.io/life_of_code/)
 
 <!--
 **MatteoGuadrini/MatteoGuadrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
