@@ -33,6 +33,14 @@ I'm a DevOps and Python/Rust developer.
   <img src="https://cdn.simpleicons.org/circleci/343434" height="40" alt="circleci logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="k8s logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
 ## Donations
