@@ -63,6 +63,15 @@ I'm a DevOps and Python/Rust developer.
 CV: [https://matteoguadrini.github.io](https://matteoguadrini.github.io/)<br>
 Snippets: [Life Of Code](https://matteoguadrini.github.io/life_of_code/)
 
+## Statistics
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MatteoGuadrini.MatteoGuadrini&right_color=darkviolet"  />
-</div>
+</div><br>
+
+| repo        | downloads                                                                                                               |
+|-------------|-------------------------------------------------------------------------------------------------------------------------|
+| psp         | [![PyPI download month](https://img.shields.io/pypi/dm/psp-scaffold.svg)](https://pypi.python.org/pypi/psp-scaffold/)   |
+| mkpl        | [![PyPI download month](https://img.shields.io/pypi/dm/make_playlist.svg)](https://pypi.python.org/pypi/make_playlist/) |
+| pyreports   | [![PyPI download month](https://img.shields.io/pypi/dm/pyreports.svg)](https://pypi.python.org/pypi/pyreports/)         |
+| fontpreview | [![PyPI download month](https://img.shields.io/pypi/dm/fontpreview.svg)](https://pypi.python.org/pypi/fontpreview/)     |
